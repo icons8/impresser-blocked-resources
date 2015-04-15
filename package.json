@@ -1,5 +1,6 @@
 {
   "name": "impress-blocked-resources",
+  "description": "Impress blocked resources manager",
   "version": "0.1.0",
   "main": "index.js",
   "repository": {
