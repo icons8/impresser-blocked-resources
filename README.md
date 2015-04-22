@@ -1,1 +1,1 @@
-# Impress blocked resources manager
+# Impresser blocked resources manager
