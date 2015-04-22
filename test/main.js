@@ -5,7 +5,7 @@ var
   configPath = 'test/fixtures/config.json'
   ;
 
-describe('impress-blocked-resource', function () {
+describe('impresser-blocked-resource', function () {
   it('should work', function() {
     var
       manager = new BlockedResource({ defaults: false, config: configPath });

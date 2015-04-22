@@ -1,10 +1,10 @@
 {
-  "name": "impress-blocked-resources",
-  "description": "Impress blocked resources manager",
+  "name": "impresser-blocked-resources",
+  "description": "Impresser blocked resources manager",
   "version": "0.1.1",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/icons8/impress-blocked-resources"
+    "url": "https://github.com/icons8/impresser-blocked-resources"
   },
   "license": "MIT",
   "scripts": {
